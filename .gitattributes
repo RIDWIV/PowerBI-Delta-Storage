@@ -10,3 +10,4 @@ BG-COL-3.jpg filter=lfs diff=lfs merge=lfs -text
 DAX[[:space:]]Formula-Trading[[:space:]]Power[[:space:]]BI[[:space:]]Report[[:space:]]and[[:space:]]Dashboard.docx filter=lfs diff=lfs merge=lfs -text
 DAX[[:space:]]Formula-Penny[[:space:]]Drop.docx filter=lfs diff=lfs merge=lfs -text
 DAX[[:space:]]Formula-EKYC.docx filter=lfs diff=lfs merge=lfs -text
+DAX[[:space:]]Formula-EKYC-User[[:space:]]Activity.docx filter=lfs diff=lfs merge=lfs -text
